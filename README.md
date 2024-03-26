@@ -10,16 +10,27 @@ Dataset Description
 The Titanic dataset contains the following columns:
 
 PassengerId: Unique identifier for each passenger
+
 Survived: Whether the passenger survived (0 = No, 1 = Yes)
+
 Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+
 Name: Passenger's name
+
 Sex: Passenger's sex
+
 Age: Passenger's age
+
 SibSp: Number of siblings/spouses aboard
+
 Parch: Number of parents/children aboard
+
 Ticket: Ticket number
+
 Fare: Passenger fare
+
 Cabin: Cabin number
+
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Results
